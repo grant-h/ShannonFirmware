@@ -1,0 +1,4 @@
+*.zip -delta
+*.lz4 -delta
+*.tar -delta
+*.tar.md5 -delta
